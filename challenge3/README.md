@@ -204,14 +204,14 @@ O objetivo é identificar problemas precocemente e aumentar a retenção de clie
 # 📁 Estrutura do Projeto
 
 ```
-telecom-churn-prediction/
+challenge3/
 
 ├── challenge3_TelecomX_Churn_Prediction.ipynb
 ├── TelecomX_Dados_Processados.csv
 ├── images/
 │   ├── distribuicao_evasao.png
-│   ├── correlacao_evasao.png
-│   └── tenure_vs_churn.png
+│   ├── variaveis_mais_corr.png
+│   └── tempo_contrato.png
 └── README.md
 ```
 
